@@ -19,10 +19,11 @@ social: false  # includes social icons at the bottom of the page
 
 In this blog post, I’ll be reviewing two recent advances in molecular generative modeling for drug discovery:
 
-1. Molecule Generation with Fragment Retrieval Augmentation (NeurIPS 2024)
-- Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Saee Paliwal, Arash Vahdat, Weili Nie
-2. GenMol: A Drug Discovery Generalist with Discrete Diffusion (ICML 2025)
+1. GenMol: A Drug Discovery Generalist with Discrete Diffusion (ICML 2025)
 - Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, Arash Vahdat
+2. Molecule Generation with Fragment Retrieval Augmentation (NeurIPS 2024)
+- Seul Lee, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Saee Paliwal, Arash Vahdat, Weili Nie
+
 
 Both works tackle the challenge of exploring vast chemical spaces to generate novel, synthesizable drug-like molecules, but they approach it through distinct generative paradigms.
 
